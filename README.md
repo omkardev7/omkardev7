@@ -1,4 +1,4 @@
-[![MasterHead](https://itizzi.com/wp-content/uploads/2021/01/blog_itizzi_02.jpg)]
+![MasterHead](https://itizzi.com/wp-content/uploads/2021/01/blog_itizzi_02.jpg)
 <h1 align="center">Hi 👋, I'm Omkar Khade</h1>
 <h3 align="center">First, solve the problem. Then write the code.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/size/w1140/2021/07/46207-programmer-1.gif">
